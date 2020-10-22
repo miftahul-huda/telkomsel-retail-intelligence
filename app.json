@@ -1,0 +1,12 @@
+{
+  "name": "Retail-Intelligence-App",
+  "displayName": "Retail-Intelligence-App",
+  "expo": {
+    "name": "Retail-Intelligence-App",
+    "slug": "Retail-Intelligence-App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
